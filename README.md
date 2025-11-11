@@ -93,8 +93,7 @@ Se implementó una interfaz que permite ingresar los datos de una propiedad y ob
 👉 [Properati Price Predictor — Hugging Face Space](https://huggingface.co/spaces/Smjanchez/properati-price-predictor)
 
 📸 **Captura de la app:**  
-![<img width="1779" height="918" alt="image" src="https://github.com/user-attachments/assets/6b9c01a5-5122-4967-bda0-9a431a376d0c" />
-](img/app_screenshot.png)
+![App Screenshot](app_screenshot.png)
 
 ---
 
@@ -110,8 +109,7 @@ Se implementó una interfaz que permite ingresar los datos de una propiedad y ob
 ## 📑 Presentación del proyecto
 
 La presentación con los principales resultados, visualizaciones e insights de negocio puede descargarse desde acá:
-
-📎 [Presentación - Predicción de precios de propiedades en Argentina — Proyecto Final.pptx](presentation/properati_presentation.pptx)
+[Properati_Presentation.pptx](presentation/Properati_Presentation.pptx)
 
 ---
 
