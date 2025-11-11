@@ -108,8 +108,7 @@ Se implementó una interfaz que permite ingresar los datos de una propiedad y ob
 
 ## 📑 Presentación del proyecto
 
-La presentación con los principales resultados, visualizaciones e insights de negocio puede descargarse desde acá:
-[[Descargar Presentación del Proyecto](presentation/Presentación - Predicción de precios de propiedades en Argentina — Proyecto Final.pptx)
+[[Descargar Presentación del Proyecto](https://github.com/smjanchez/Proyecto-final/blob/main/presentation/Presentaci%C3%B3n%20-%20Predicci%C3%B3n%20de%20precios%20de%20propiedades%20en%20Argentina%20%E2%80%94%20Proyecto%20Final.pptx)
 )
 
 ---
